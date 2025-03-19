@@ -1,0 +1,36 @@
+[
+    {
+        "id": "42302778572007517",
+	"diterima": "1",
+        "nama": "YUGA KONTOL",
+        "tgl_lahir": "18/05/2007",
+        "nisn": "0075735727",
+        "no_peserta": "4230277857",
+        "sekolah": "SMA UNTAD ENTOD",
+        "prov": "Prov. Jawa Tengah",
+        "kab": "KOTA MAGELANG",
+        "univ": "UNIGGA",
+        "prodi": "JOMOK - S1",
+        "link": "https://pmb.undip.ac.id/"
+    },
+	{
+        "id": "42302778662007517",
+	"diterima": "1",
+        "nama": "ADELYA ZYLVA KIRANA",
+        "tgl_lahir": "17/05/2007",
+        "nisn": "0075735727",
+        "no_peserta": "4230277866",
+        "sekolah": "SMA NEGERI 2 BATANG",
+        "prov": "Prov. Jawa Tengah",
+        "kab": "Kab. Batang",
+        "univ": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": "AKUNTANSI - S1",
+        "link": "https://unnes.ac.id/admission"
+    },
+    {
+        "id": "42302778662007517",
+        "diterima": "0",
+		"nopes": "4230277866",
+		"nama": "NAMA PESERTA"
+    }
+]
